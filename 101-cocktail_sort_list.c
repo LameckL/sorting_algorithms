@@ -57,8 +57,8 @@ void swap_node_behind(listint_t **list, listint_t **tail, listint_t **shaker)
 }
 
 /**
- * cocktail_sort_list - func sorting a listint_t doubly-linked list of integers in
- *  an ascending order utilizing the cocktail shaker alg
+ * cocktail_sort_list - func sorting listint_t doubly-linked list of integers
+ *  in an ascending order utilizing the cocktail shaker alg
  * @list: head pointer of a listint_t doubly-linked list
  */
 void cocktail_sort_list(listint_t **list)
