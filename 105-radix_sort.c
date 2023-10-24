@@ -25,8 +25,8 @@ int get_max(int *array, int size)
 }
 
 /**
- * radix_counting_sort - func sorting significant digits of an array of integers in
- * ascending order using the counting sort algorithm
+ * radix_counting_sort - func sorting significant digits of an
+ * array of integers in ascending order using the counting sort algorithm
  * @array: integer arrays
  * @size: array size
  * @sig: significant digit to sort on
